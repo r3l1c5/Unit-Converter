@@ -113,9 +113,7 @@ This project was created as a Python learning project to practice menu-driven ap
 
 ## License
 
-This project is licensed under the **MIT License**.
-
-See the [LICENSE](LICENSE) file for details.
+This project is distributed under the **MIT License**. See the `LICENSE` file for details.
 
 ## Author
 
